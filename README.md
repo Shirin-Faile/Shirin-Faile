@@ -1,17 +1,35 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:84ffc9,50:aab2ff,100:eca0ff&text=Hey%20There!😊&fontColor=fbfefb&animation=fadeIn" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:84ffc9,50:aab2ff,100:eca0ff&fontColor=fbfefb&animation=fadeIn" alt="header">
 </p>
 
-<h3 align="center">👩‍💻 Front-End Developer Student</h3>
+<h1 align="center">Hey There!😊</h1>
+
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1865F7&center=true&vCenter=true&random=false&width=435&lines=I+~+I'm+a+Front-End+Developer+Student+~+!" alt="Typing SVG" />
+  </a>
+</h3>
 
 <h3 align="center">
   <img src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif" width="150" height="150" alt="Developer GIF">
 </h3>
 
+<div align="center">
+<h2>About Me <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="40">&nbsp;</h2>
+</div>
+
+- 🚀 I'm passionate about front-end development.
+- 💻 Currently learning React.js.
+- 🎨 Love to design user-friendly interfaces.
+- 🌱 Constantly exploring new technologies.
+- 📚 Studying front-end development.
+- 🌍 Based in Sweden.
 
 <div align="center">
 <h2>Languages & Tools <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="40">&nbsp;</h2>
 </div>
+
+<br>
 
 <div align="center">
 <img src="https://github.com/Shirin-Faile/Shirin-Faile/assets/148776115/f25678f9-d98c-4f5e-96d3-8ae055e7bce4" width="45" height="45"/>
@@ -24,9 +42,10 @@
 </div>
 
 <br>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h2 align="center">GitHub Stats     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40">&nbsp;</h2> 
+<h2 align="center">GitHub Stats <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40">&nbsp;</h2> 
 
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Shirin-Faile&show_icons=true&theme=dracula">
@@ -40,7 +59,8 @@
 </p>
 
 <br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+![snake gif](https://github.com/Shirin-Faile/Shirin-Faile/blob/output/github-contribution-grid-snake-dark.svg)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:84ffc9,50:aab2ff,100:eca0ff" alt="footer">
