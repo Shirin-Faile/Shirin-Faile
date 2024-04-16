@@ -19,6 +19,10 @@ jobs:
     timeout-minutes: 10
     
     steps:
+      # Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      
       # Generate the snake animation SVG files
       - name: Generate snake SVG files
         uses: Platane/snk/svg-only@v3
