@@ -60,7 +60,7 @@
 
 <br>
 
-![snake gif](https://github.com/Shirin-Faile/Shirin-Faile/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/Shirin-Faile/Shirin-Faile/output/github-contribution-grid-snake-dark.svg)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:84ffc9,50:aab2ff,100:eca0ff" alt="footer">
