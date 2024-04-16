@@ -18,12 +18,12 @@
 <h2>About Me <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="40">&nbsp;</h2>
 </div>
 
-- 🚀 I'm passionate about front-end development.
-- 💻 Currently learning React.js.
-- 🎨 Love to design user-friendly interfaces.
-- 🌱 Constantly exploring new technologies.
-- 📚 Studying front-end development.
-- 🌍 Based in Sweden.
+- 🚀 Exploring the world of front-end development with excitement and curiosity.
+- 💻 React.js has my attention, and I'm getting the hang of it one step at a time.
+- 🎨 I'm all about creating interfaces that are not just cool but super easy to use.
+- 🌱 Always on the lookout for the next big thing in tech.
+- 📚 Diving deep into all things front-end to level up my skills.
+- 🌍 Studying and coding away from my base in Sweden.
 
 <div align="center">
 <h2>Languages & Tools <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="40">&nbsp;</h2>
