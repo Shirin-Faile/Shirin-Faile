@@ -27,6 +27,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shirin-Faile&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shirin-Faile&theme=dracula&utcOffset=8)
 
-![Snake animation](https://github.com/Shirin-Faile/Shirin-Faile/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Shirin-Faile/Shirin-Faile/output/github-contribution-grid-snake-dark.svg)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:84ffc9,50:aab2ff,100:eca0ff)
