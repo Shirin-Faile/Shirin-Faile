@@ -42,7 +42,6 @@
 </div>
 
 <br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h2 align="center">GitHub Stats <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40">&nbsp;</h2> 
 
@@ -65,8 +64,9 @@
   </picture>
 </div>
 
-<br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<p align="center">
+  <img src="https://i.pinimg.com/originals/b2/c6/28/b2c62849280c8fd2814d1b917c1345b2.gif" alt="Centered image" width="300">
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:84ffc9,50:aab2ff,100:eca0ff" alt="footer">
