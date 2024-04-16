@@ -42,7 +42,6 @@
 </div>
 
 <br>
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h2 align="center">GitHub Stats <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40">&nbsp;</h2> 
@@ -58,13 +57,16 @@
 <img width="1000" src="https://github-profile-trophy.vercel.app/?username=Shirin-Faile&theme=dracula" />
 </p>
 
-<br>
+<div style="text-align: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shirin-Faile/Shirin-Faile/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shirin-Faile/Shirin-Faile/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shirin-Faile/Shirin-Faile/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:84ffc9,50:aab2ff,100:eca0ff" alt="footer">
