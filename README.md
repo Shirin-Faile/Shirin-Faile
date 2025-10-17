@@ -23,7 +23,7 @@
 - 🎨 I'm all about creating interfaces that are not just cool but super easy to use.
 - 🌱 Always on the lookout for the next big thing in tech.
 - 📚 Diving deep into all things front-end to level up my skills.
-- 🌍 Studying and coding away from my base in Sweden.
+- 🌍 Studying and coding from my base in Sweden.
 
 <div align="center">
 <h2>Languages & Tools <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="40">&nbsp;</h2>
